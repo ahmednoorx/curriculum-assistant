@@ -1,0 +1,7 @@
+streamlit
+transformers
+PyPDF2
+python-docx
+reportlab
+requests
+fpdf
